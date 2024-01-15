@@ -1,5 +1,4 @@
 <?php
-/*custom code developed by mishra*/
 class upsoauth {
 	var $code, $title, $description, $icon, $enabled;
 	// class constructor
